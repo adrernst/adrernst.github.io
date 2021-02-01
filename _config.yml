@@ -10,3 +10,5 @@ github_username: adrernst
 
 # Build settings
 markdown: kramdown
+# Google Analytics
+google_analytics: G-V6MKHNDQYL
